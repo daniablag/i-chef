@@ -1,0 +1,35 @@
+.embroidery-block {
+    border: 1px solid #e2e2e2;
+    padding: 15px;
+    background: #fafafa;
+    margin: 20px 0;
+}
+.embroidery-field label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.embroidery-block .embroidery-fields {
+    display: none;
+    margin-top: 10px;
+}
+
+.embroidery-block .embroidery-field input[type="text"],
+.embroidery-block .embroidery-field select {
+    width: 100%;
+}
+
+.embroidery-block .embroidery-preview {
+    display: block;
+    margin-top: 5px;
+    font-size: 18px;
+	font-weight: bold;
+	padding: 10px;
+    background: #ebebeb;
+	letter-spacing: 1px;
+}
+
+.embroidery-block .title-preview {
+    margin-left: 5px;
+	font-weight: 600;
+}

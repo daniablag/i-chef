@@ -1,0 +1,69 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Іменна вишивка WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-07-01 11:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.0; wp-6.8.1; php-8.4.8\n"
+"X-Domain: embroidered-name"
+
+#. Author of the plugin
+msgid "DC Web Studio"
+msgstr ""
+
+#: embroidered-name.php:122
+msgid "Ім'я та прізвище:"
+msgstr ""
+
+#: embroidered-name.php:258 embroidered-name.php:336
+msgid "Іменна вишивка"
+msgstr ""
+
+#. Name of the plugin
+msgid "Іменна вишивка WooCommerce"
+msgstr ""
+
+#: embroidered-name.php:143
+msgid "Додати титули (+%d грн):"
+msgstr ""
+
+#. Description of the plugin
+msgid "Додає кастомну опцію іменної вишивки з динамічним ціноутворенням."
+msgstr ""
+
+#: embroidered-name.php:138
+msgid "Перегляд напису:"
+msgstr ""
+
+#: embroidered-name.php:258 embroidered-name.php:336
+msgid "Так"
+msgstr ""
+
+#: embroidered-name.php:262 embroidered-name.php:337
+msgid "Текст"
+msgstr ""
+
+#: embroidered-name.php:272 embroidered-name.php:343
+msgid "Титули"
+msgstr ""
+
+#: embroidered-name.php:116
+msgid "I want personalized embroidery (+%d грн)"
+msgstr ""
+
+#: embroidered-name.php:267 embroidered-name.php:340
+msgid "Шрифт"
+msgstr ""
+
+#: embroidered-name.php:128
+msgid "Шрифт:"
+msgstr ""
